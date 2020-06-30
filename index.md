@@ -8,4 +8,4 @@ Malcolm "Mal" Reynolds is a fictional character and the protagonist of the Firef
 * he usually seems more practical than intellectual
 * he occasionally surprises his friends by displaying familiarity with disparate literature
 
-> [If the] Wind blows Northerly, I go North.
+> \[If the\] Wind blows Northerly, I go North.
