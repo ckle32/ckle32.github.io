@@ -7,3 +7,5 @@ Malcolm "Mal" Reynolds is a fictional character and the protagonist of the Firef
 * his main mission is to keep his crew alive and to keep his ship flying
 * he usually seems more practical than intellectual
 * he occasionally surprises his friends by displaying familiarity with disparate literature
+
+> If the Wind blows Northerly, I go North.
