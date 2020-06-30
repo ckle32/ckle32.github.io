@@ -9,3 +9,5 @@ Malcolm "Mal" Reynolds is a fictional character and the protagonist of the Firef
 * he occasionally surprises his friends by displaying familiarity with disparate literature
 
 > If the Wind blows Northerly, I go North.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/1/13/MalReynoldsFirefly.JPG"/>
